@@ -21,8 +21,7 @@ En esta práctica se aplican y experimentan diferentes formas de selección y es
   <li>Para usar este código hay que ir a la pestaña Code | Download ZIP.</li>
   <li>Descomprimir el archivo zipeado, entrar a la carpeta creada y buscar el archivo <b>index.html</b>.</li>
   <li>Una vez localizado el archivo <b>index.html</b> le damos doble click a dicho archivo y se nos abrirá el proyecto HTML en nuestro navegador de Internet predeterminado.</li>
-  <li>Este proyecto es una pequeña reseña de la obra de <b>Akira Toriyama - Dragon Ball.</b></li>
-  <li>En la página uno se usan las etiquetas <b>&lt;div&gt;, &lt;h1&gt;, &lt;h2&gt;, ..., &lt;h6&gt;, &lt;p&gt;, &lt;span&gt;, &lt;ul&gt;, &lt;li&gt;, &lt;ol&gt;, &lt;a&gt;, br&gt;</b>.
+  <li>Este proyecto cuenta con dos páginas de un portal web de comida para llevar y de antojitos poblanos.</b></li>
   <li>Al finalizar la página el diseño cuenta con vínculos a las diferentes Sagas de dicha obra en su idioma original y cuenta con un enlace a una segunda página de más información.</li>
   <li>La página dos muestra el uso de las etiquetas <b>&lt;h1&gt;, &lt;center&gt;, &lt;img&gt;, &lt;div&gt;, &lt;br&gt;, &lt;table&gt;, &lt;caption&gt;, &lt;strong&gt;, &lt;thead&gt;, &lt;tr&gt;, &lt;th&gt;, &lt;tbody&gt;, &lt;td&gt;, &lt;form&gt;, &lt;h2&gt;, &lt;fieldset&gt;, &lt;legend&gt;, &lt;label&gt;, &lt;input&gt;, &lt;select&gt;, &lt;option&gt;, &lt;textarea&gt;, &lt;a&gt;</b>.</li>
   <li>Al finalizar la página dos nos encontraremos con un vínculo de regreso a la página uno.</li>
