@@ -105,6 +105,6 @@ En esta práctica se aplican y experimentan diferentes formas de selección y es
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/50dc3d62-8a1d-48be-9ccd-9298287196a6" />
 
+---
 
-
-
+## <p align="center"><a href="https://github.com/adnalotrebla741202">REGRESAR</a></p>
